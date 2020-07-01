@@ -1,11 +1,4 @@
-Adding in the beginning.
-
-Writing something here.
-
-Changing again.
-
-Something else!!!
-
-I'm writing this directly from the github editor :)
-
-Even more changes, here we gooo ...
+Hey
+I'm chewing gum
+This is a poem
+I promise it is
